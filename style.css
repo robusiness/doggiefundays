@@ -38,3 +38,6 @@ table {
   margin: auto;
   width: 75%;
 }
+.right {
+  text-align: right;
+}
