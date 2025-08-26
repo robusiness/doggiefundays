@@ -20,8 +20,8 @@ table {
   border: 0px;
   width: 100%;
 }
-th {
-  width: 0%;
+td {
+  text-align: center;
 }
 #main {
   color: #000000;
