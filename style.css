@@ -35,3 +35,6 @@ iframe {
   bottom: 0px;
   overflow: hidden;
 }
+tr {
+  height: 85px;
+}
