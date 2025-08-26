@@ -1,6 +1,7 @@
 body {
   background: #FFFFFF;
   margin: 0px 10px 10px 10px;
+  font-family: sans-serif;
 }
 a {
   color: #FFFFFF;
@@ -37,7 +38,4 @@ table {
   display: block;
   margin: auto;
   width: 75%;
-}
-.right {
-  text-align: right;
 }
