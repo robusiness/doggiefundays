@@ -19,8 +19,9 @@ a {
 table {
   border: 0px;
   width: 100%;
-  text-align: center;
 }
+th {
+  width: 185.68px;
 #main {
   color: #000000;
 }
@@ -34,7 +35,7 @@ iframe {
   overflow: hidden;
 }
 #fday {
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin: auto;
   width: 75%;
 }
