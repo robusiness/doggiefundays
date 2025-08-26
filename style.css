@@ -19,9 +19,8 @@ a {
 table {
   border: 0px;
   width: 100%;
+  table-layout: fixed;
 }
-th {
-  width: 20%;
 #main {
   color: #000000;
 }
