@@ -29,6 +29,7 @@ table {
   border: 0px;
   width: 100%;
   table-layout: fixed;
+  text-align: center;
 }
 #main {
   color: #000000;
